@@ -184,6 +184,11 @@ School holidays:
 + Department of Education: [School holiday dates](https://www.gov.ie/en/service/388196-school-holiday-dates/)
 + An Roinn Oideachais: [Laethanta saoire scoile dátaí](https://www.gov.ie/ga/seirbhis/dae1c6-none/)
 
+### Italy
+
+Public holidays:
++ [Ufficio del Cerimoniale di Stato: Festività e giornate nazionali](https://presidenza.governo.it/ufficio_cerimoniale/cerimoniale/giornate.html)
+
 ### Latvia
 
 Public holidays:
