@@ -324,6 +324,13 @@ School holidays:
 + Ministrstvo za izobraževanje, znanost in šport: [Šolski koledar za srednje šole](https://www.gov.si/teme/solski-koledar-za-srednje-sole/)
 + Ministrstvo za izobraževanje, znanost in šport: [Šolski koledar za osnovne šole](https://www.gov.si/teme/solski-koledar-za-osnovne-sole/)
 
+### Spain
+
+Public holidays:
+
++ [Real Decreto 2001/1983, Art. 45](https://www.boe.es/buscar/act.php?id=BOE-A-1983-20906&b=71&tn=1&p=19891107#art45)
++ [Calendario de fiestas laborales estatal, comunidades autónomas y fiestas locales](https://www.laboral-social.com/calendario-laboral-nacional-comunidades-autonomas-fiestas-locales.html)
+
 ### Switzerland
 
 Public holidays:
