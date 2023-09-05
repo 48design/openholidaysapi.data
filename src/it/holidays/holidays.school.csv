@@ -1,0 +1,27 @@
+﻿Id;Country;StartDate;EndDate;Type;Name;Subdivisions;Comment
+fab06766-4849-43a6-9272-75c2f264361a;IT;2020-12-23;2021-01-05;School;IT festività natalizie,EN Christmas Holidays,DE Weihnachtsferien;R-CL,R-CM,R-LA,R-LO,R-MO,R-PI,R-PU,R-SA,R-UM;
+f0bd57f8-aebd-4603-8778-598ef60b7f3d;IT;2020-12-23;2021-01-07;School;IT festività natalizie,EN Christmas Holidays,DE Weihnachtsferien;R-SI;
+e124fd36-923e-4cfb-aafa-95297a060be5;IT;2020-12-24;2021-01-05;School;IT festività natalizie,EN Christmas Holidays,DE Weihnachtsferien;R-AB,R-BA,R-ER,R-FV,R-LI,R-MA,R-TO,R-VA,R-VE,TN,BZ;
+5a3d7707-3516-424b-9eef-32d44241e004;IT;2021-04-01;2021-04-06;School;IT festività pasquali,EN Easter Holidays,DE Osterferien;;
+aab25b88-d1fa-4d1e-9298-b4a17b78e454;IT;2021-12-23;2022-01-05;School;IT festività natalizie,EN Christmas Holidays,DE Weihnachtsferien;R-LO,R-SA;
+062de4c2-645f-4665-a123-e8b2bc4a11ea;IT;2021-12-23;2022-01-06;School;IT festività natalizie,EN Christmas Holidays,DE Weihnachtsferien;R-LA,R-SI,R-UM,TN;
+bd58062d-e6fa-4396-88d7-f5b39a98a6a4;IT;2021-12-23;2022-01-08;School;IT festività natalizie,EN Christmas Holidays,DE Weihnachtsferien;R-CM,R-MO,R-VA;
+f4289c13-e8aa-4769-9695-1a83b333faf2;IT;2021-12-23;2022-01-09;School;IT festività natalizie,EN Christmas Holidays,DE Weihnachtsferien;R-PU;
+f6ba23f9-a4cb-4f4e-96f6-c623725ae757;IT;2021-12-24;2022-01-05;School;IT festività natalizie,EN Christmas Holidays,DE Weihnachtsferien;R-AB,R-BA,R-ER,R-FV,R-MA,R-TO;
+990375c8-55be-4e7e-88b4-b09a343aac60;IT;2021-12-24;2022-01-06;School;IT festività natalizie,EN Christmas Holidays,DE Weihnachtsferien;R-CL;
+4f1886e4-0ff9-4a9f-86f0-65b3d3bc5658;IT;2021-12-24;2022-01-08;School;IT festività natalizie,EN Christmas Holidays,DE Weihnachtsferien;R-LI,R-PI,R-VE,BZ;
+1fb827fb-0f56-4737-935e-676a9704b9b0;IT;2022-04-14;2022-04-19;School;IT festività pasquali,EN Easter Holidays,DE Osterferien;;
+46500218-6446-498d-8473-c91b02e88416;IT;2022-12-23;2023-01-05;School;IT festività natalizie,EN Christmas Holidays,DE Weihnachtsferien;R-CM,R-LA,R-LO,R-SA,TN;
+3bda45b4-76e0-4b26-8746-5a6952b8ea8f;IT;2022-12-23;2023-01-07;School;IT festività natalizie,EN Christmas Holidays,DE Weihnachtsferien;R-CA,R-LI,R-MO,R-PU,R-SI,R-UM;
+cabca269-1a22-4e64-8d41-4f5674f3c8ec;IT;2022-12-24;2023-01-05;School;IT festività natalizie,EN Christmas Holidays,DE Weihnachtsferien;R-ER,R-TO,BZ;
+e6950178-9ed7-4213-8481-6d25a07d5569;IT;2022-12-24;2023-01-07;School;IT festività natalizie,EN Christmas Holidays,DE Weihnachtsferien;R-AB,R-BA,R-FV,R-MA,R-PI,R-VA,R-VE;
+6992ea8d-e6a9-4c85-8b32-2f7b5c3280e3;IT;2023-04-06;2023-04-11;School;IT festività pasquali,EN Easter Holidays,DE Osterferien;R-AB,R-BA,R-CL,R-CM,R-ER,R-FV,R-LA,R-LI,R-LO,R-MA,R-MO,R-PI,R-PU,R-SA,R-SI,R-TO,R-UM,R-VA,TN,BZ;
+0890e06d-83da-4048-9b1e-cce2736df4dc;IT;2023-04-06;2023-04-08;School;IT festività pasquali,EN Easter Holidays,DE Osterferien;R-VE;
+fb821f3b-1b07-4f7e-bbf2-a7cdcaa7e6f2;IT;2023-12-22;2024-01-05;School;IT festività natalizie,EN Christmas Holidays,DE Weihnachtsferien;R-UM;
+fa9864c0-ab5d-45e9-992c-1422719729f3;IT;2023-12-23;2024-01-05;School;IT festività natalizie,EN Christmas Holidays,DE Weihnachtsferien;R-AB,R-BA,R-CL,R-CM,R-LA,R-LO,R-MO,R-PI,R-PU,R-SA,R-SI,R-VE,TN;
+e2eadeec-142a-4dd9-b52e-ed1c41c9fb55;IT;2023-12-24;2024-01-05;School;IT festività natalizie,EN Christmas Holidays,DE Weihnachtsferien;R-ER,R-TO;
+f095175b-fc38-4e27-8b68-aa4aa9e237f5;IT;2023-12-24;2024-01-06;School;IT festività natalizie,EN Christmas Holidays,DE Weihnachtsferien;R-MA;
+d30dd07c-8783-4198-a21b-6f17da2e2edc;IT;2023-12-24;2024-01-07;School;IT festività natalizie,EN Christmas Holidays,DE Weihnachtsferien;R-VA;
+f1386777-0754-4ecf-bc77-fd0a907d833f;IT;2023-12-27;2024-01-05;School;IT festività natalizie,EN Christmas Holidays,DE Weihnachtsferien;R-FV,R-LI,BZ;
+b496ca5c-c218-4a39-be9b-c23e6babd8e4;IT;2024-03-28;2024-04-02;School;IT festività pasquali,EN Easter Holidays,DE Osterferien;R-AB,R-BA,R-CL,R-CM,R-ER,R-FV,R-LA,R-LI,R-LO,R-MA,R-MO,R-PI,R-PU,R-SA,R-SI,R-TO,R-UM,R-VE,TN,BZ;
+a98bc399-7fb1-481a-b678-8ab574324bea;IT;2024-03-28;2024-04-01;School;IT festività pasquali,EN Easter Holidays,DE Osterferien;R-VA;
