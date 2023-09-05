@@ -125,3 +125,5 @@ IT;IT-RC;IT-RC;RC;IT Città metropolitane,EN Metropolitan cities,DE Metropolen;I
 IT;IT-RM;IT-RM;RM;IT Città metropolitane,EN Metropolitan cities,DE Metropolen;IT Roma,EN Rome,DE Rom;IT;R-LA
 IT;IT-TO;IT-TO;TO;IT Città metropolitane,EN Metropolitan cities,DE Metropolen;IT Torino,EN Turin,DE Turin;IT;R-PI
 IT;IT-VE;IT-VE;VE;IT Città metropolitane,EN Metropolitan cities,DE Metropolen;IT Venezia,EN Venice,DE Venedig;IT;R-VE
+IT;IT-LO-RA;;LO-RA;IT rito liturgico,EN liturgical rite,DE liturgischer Ritus;IT rito ambrosiano,EN Ambrosian rite,DE Ambrosianischer Ritus;IT;R-LO
+IT;IT-LO-RR;;LO-RR;IT rito liturgico,EN liturgical rite,DE liturgischer Ritus;IT rito romano,EN Roman rite,DE Römischer Ritus;IT;R-LO
