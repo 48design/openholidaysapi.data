@@ -189,6 +189,9 @@ School holidays:
 Public holidays:
 + [Ufficio del Cerimoniale di Stato: Festività e giornate nazionali](https://presidenza.governo.it/ufficio_cerimoniale/cerimoniale/giornate.html)
 
+School holidays:
++ [Il calendario scolastico](https://www.miur.gov.it/calendario-scolastico)
+
 ### Latvia
 
 Public holidays:
